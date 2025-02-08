@@ -20,7 +20,6 @@ The dataset was obtained from [DocTamper](https://github.com/qcf-568/DocTamper).
 
 ### command
 The number of GPUs used, device settings, file save paths, and weight loading paths need to be configured in advance in `train.py`, `train_wrapper.py`, and `eval.py`.
-Here's the translation in Markdown format:
 
 - Training + Testing
 ```bash
